@@ -25,5 +25,5 @@ Embarked: Converted using one-hot encoding, keeping two of the three categories 
 <p>Outliers in Age and Fare are detected using the Interquartile Range (IQR) method and removed to improve model robustness.</p>
 <h3>6. Exporting Cleaned Data</h3>
 <p>The cleaned dataset is saved as cleaned_titanic.csv for downstream machine learning workflows.</p>
-<h5>📊 Visualization
-A boxplot of the Age and Fare columns is created using Seaborn to visualize the distribution and detect potential outliers</h5>
+<h3>📊 Visualization
+A boxplot of the Age and Fare columns is created using Seaborn to visualize the distribution and detect potential outliers</h3>
